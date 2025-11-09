@@ -10,7 +10,7 @@ It is fully **responsive**, interactive, and visually appealing across desktop, 
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](www.abhisdpdns.org)
+You can view the live website here: [Live Demo](www.abhis.dpdns.org)
 
 ---
 
